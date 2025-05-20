@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Click-Update Work İtem",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1YnE8ylowke5Y-xgz2LbaA",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/1YnE8ylowke5Y-xgz2LbaA",
+  "ParentRef": "231kkLi4_kOhirxCU8mk-Q/H0nZIqjJYkqib4RPpUY1SQ",
+  "Created": "2025-02-19T16:21:18.1914162Z",
+  "Updated": "2025-02-19T16:21:18.1914162Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

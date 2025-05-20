@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="LBoT8g-0RE-Mt0OOY7fkqQ" Reference="231kkLi4_kOhirxCU8mk-Q/McnTBLGX202ngwEjn59Fyw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/104931346" CVScreenId="7d3c306d-70ad-477e-9f14-f9e1393cbd19" CvElementArea="425, 6, 20, 20" CvType="CloseButton" DesignTimeRectangle="417, 1, 37, 30" DesignTimeScaleFactor="1" ElementType="Button" Guid="94672451-0fcf-4a1e-964c-0147d51da0bb" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ef5a37d-df6a-411f-9b44-b03abe5b4162" CvTextArea="31, 8, 181, 16" CvTextArgument="ACME System 1 - Google Chrome" CvType="Text" DesignTimeRectangle="31, 8, 181, 16" ElementType="Text" Guid="9e740af6-3457-4685-84f2-1839a9d275cb" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a035ff37877e2b2f187e869d0f9746c1.png" xmlns="">0HOp7LU1IQUOLNh6iuQ9ujA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="a7FSGodHY0C6BPNXE_9Bsg" Reference="231kkLi4_kOhirxCU8mk-Q/yuqvcHJikUaCK4v6lieqFg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/104931346" CVScreenId="604c490b-426c-47a9-8fc3-179092c48be0" DesignTimeRectangle="368, 150, 75, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='*acme-test.uipath.com web sitesinin mesajı*' role='dialog' /&gt;&lt;ctrl name='*' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com web sitesinin mesajı' role='dialog' /&gt;&lt;ctrl name='Tamam' role='push button' automationid='' check:fulltext='Tamam' /&gt;" Guid="9e42d024-03fb-447d-9844-3ea3a1595a04" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9661b42620dd432a208676d4d65a8e0c.png" xmlns="">07DrrsFMoIUmNCzzAaJtBkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

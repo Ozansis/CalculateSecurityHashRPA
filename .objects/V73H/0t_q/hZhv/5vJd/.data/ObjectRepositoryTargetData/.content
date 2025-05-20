@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mMoHqv9Guk-3Jm07fxknFw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="emn178.github.io/online-tools/sha1.html" CVScreenId="e325ac35-3a2a-4202-a0f6-612058b1491b" CvTextArea="1295, 277, 292, 12" CvType="AnyWordGroup" DesignTimeRectangle="1288, 266, 640, 743" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='output' tag='TEXTAREA' type='' class='container' placeholder='Output here...' aaname='' /&gt;" Guid="5ead613d-3232-438e-a826-8e660e585446" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 - Online Tools' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1b8d9577f51d56daf9ab3bf275b802be.png" xmlns="">0D4CrsxYE20C_HNI9EYI9og</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

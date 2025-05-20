@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4qmqeG85xEaJKNpkpOPXNw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/105014450" CVScreenId="d190da04-ac95-4b5a-b22d-86cbd05e799e" CvElementArea="1894, 18, 21, 20" CvType="CloseButton" DesignTimeRectangle="1882, 8, 46, 40" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com web sitesinin mesajı' role='pane' /&gt;&lt;ctrl name='Kapat' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='acme-test.uipath.com web sitesinin mesajı' role='pane' /&gt;&lt;ctrl name='Kapat' role='push button' automationid='' check:text='Kapat' /&gt;" Guid="44f9ad2d-2cdb-4bff-8e77-cc969b958571" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3670426c4284ebed858a4f29e9dc1230.png" xmlns="">0rY0KSb7wyE-O2u6iEkm-xg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

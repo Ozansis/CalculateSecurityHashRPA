@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Add Comments",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "fapCkTb2SU-5aBc_VCd41g",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/fapCkTb2SU-5aBc_VCd41g",
+  "ParentRef": "231kkLi4_kOhirxCU8mk-Q/H0nZIqjJYkqib4RPpUY1SQ",
+  "Created": "2025-02-19T16:13:32.2507235Z",
+  "Updated": "2025-02-19T16:13:32.2507235Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "New application",
+  "Type": "App",
+  "Id": "BBQwgYIQ3EOt2N-ncVn1RA",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/BBQwgYIQ3EOt2N-ncVn1RA",
+  "Created": "2025-02-17T13:13:52.0398258Z",
+  "Updated": "2025-02-17T13:13:52.0398258Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

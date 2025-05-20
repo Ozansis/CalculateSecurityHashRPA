@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Kapat",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "1PxU75Reu0eJmoEjQ-_bbg",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/1PxU75Reu0eJmoEjQ-_bbg",
+  "ParentRef": "231kkLi4_kOhirxCU8mk-Q/0Mor32O3Jk-wYONXm5gXjA",
+  "Created": "2025-02-22T20:41:19.3530491Z",
+  "Updated": "2025-02-22T20:41:19.3530491Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

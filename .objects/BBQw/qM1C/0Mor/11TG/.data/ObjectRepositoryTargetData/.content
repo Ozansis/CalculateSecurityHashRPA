@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="uyiqKpaOeU2ppagof-PwFA" Reference="231kkLi4_kOhirxCU8mk-Q/11TGNm0XWUeaXwYeAS-91A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/update/105014450" CVScreenId="ed3e5626-c48c-476f-b57e-bef17516c0ed" CvElementArea="1089, 173, 89, 51" CvTextArea="1111, 192, 45, 12" CvTextArgument="Tamam" CvType="Button" DesignTimeRectangle="1097, 179, 75, 38" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl name='acme-test.uipath.com web sitesinin mesajı' role='dialog' /&gt;&lt;ctrl name='Tamam' role='push button' /&gt;" FuzzySelectorArgument="[&lt;ctrl name='*uipath.com*message*' role='dialog' /&gt; &lt;ctrl name='*OK*|*Tamam*' role='push button' /&gt;]" Guid="37ecc6cb-fa19-4e3e-93d4-5099c10836db" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Google Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="926812bb4c6da397166b236d31c71402.png" xmlns="">0IV4x3p_qLEihMz3ZwhOXfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

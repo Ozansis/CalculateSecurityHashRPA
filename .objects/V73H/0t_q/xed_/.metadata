@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome SHA-1 Hash Generator Online Tool",
+  "Type": "Screen",
+  "Id": "xed_EjUzRku9Sq-Prg773g",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/xed_EjUzRku9Sq-Prg773g",
+  "ParentRef": "231kkLi4_kOhirxCU8mk-Q/0t_qHsccLUiu0yAoZGxPAw",
+  "Created": "2025-02-17T13:38:02.2910723Z",
+  "Updated": "2025-02-17T13:38:02.2910723Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

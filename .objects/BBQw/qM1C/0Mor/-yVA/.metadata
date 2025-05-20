@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tamam(2)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "-yVAfm_aBEyC5WOdJCXOww",
+  "Reference": "231kkLi4_kOhirxCU8mk-Q/-yVAfm_aBEyC5WOdJCXOww",
+  "ParentRef": "231kkLi4_kOhirxCU8mk-Q/0Mor32O3Jk-wYONXm5gXjA",
+  "Created": "2025-02-22T20:39:26.5992175Z",
+  "Updated": "2025-02-22T20:39:26.5992175Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
